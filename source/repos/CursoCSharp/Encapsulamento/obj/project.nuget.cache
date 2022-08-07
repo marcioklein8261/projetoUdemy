@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1HlVe01N/M3gHk3PErRPxFiPRSCsFOr7/Dew3YYo58ldVmV5O9IccCbbXigqPKa36e7611KudL3j7sCdQaE6bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klein\\source\\repos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klein\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\klein\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

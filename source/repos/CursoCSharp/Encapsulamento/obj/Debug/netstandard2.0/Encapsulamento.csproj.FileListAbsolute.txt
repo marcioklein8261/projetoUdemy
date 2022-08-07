@@ -1,0 +1,9 @@
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.deps.json
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\klein\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.pdb
